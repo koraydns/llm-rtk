@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+
+# Secrets
+llm_rtk/secrets/*
+!llm_rtk/secrets/.gitkeep
+
+# Ignore PDF reports and PNG charts
+*.pdf
+*.png
