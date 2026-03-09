@@ -1,4 +1,4 @@
-# LLM-RTK
+# LLM-RTK (Large Language Model Red Teaming Kit)
 
 LLM-RTK (Large Language Model Red Teaming Kit) is an open-source adversarial testing framework designed to evaluate GenAI systems against security risks defined in the **OWASP Top 10 for LLM Applications**.
 
@@ -233,7 +233,7 @@ This project is licensed under the Apache License, Version 2.0.
 You may obtain a copy of the License at:  [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Unless required by applicable law or agreed to in writing, this software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-For more details, refer to the [LICENSE file in this repository](https://github.com/koraydns/quantum-attack-simulator/blob/main/LICENSE).
+For more details, refer to the [LICENSE file in this repository](https://github.com/koraydns/llm-rtk/blob/main/LICENSE).
 
 
 # Acknowledgments
