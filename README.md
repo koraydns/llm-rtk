@@ -116,6 +116,11 @@ An example vulnerable AI application using the default template can be found in:
 examples/vulnerable_ai_demo/
 ```
 
+# API Key Configuration
+
+Some AI platforms require authentication.  
+Create `llm_rtk/secrets/api_key.txt` if needed. The placeholder `{{api_key}}` in templates will be replaced automatically.
+
 # Burp Proxy Support
 
 LLM-RTK can route requests through a proxy such as Burp Suite.
