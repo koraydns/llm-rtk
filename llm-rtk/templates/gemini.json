@@ -1,0 +1,21 @@
+{
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "url_suffix": "?key={{api_key}}",
+  "body": {
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "{{payload}}"
+          }
+        ]
+      }
+    ],
+    "generationConfig": {
+      "temperature": 0.0
+    }
+  }
+}
